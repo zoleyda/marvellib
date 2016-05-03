@@ -1,0 +1,12 @@
+<ion-view>
+	<ion-content class="" ng-controller="ControllerDetails">
+		<ion-list class="list card">
+			<ion-item class="item-text-wrap">
+				<img class="details-img" ng-src="{{comic.image}}" alt="comics {{comic.title}}">
+				<h2 class="title-details">{{comic.title}}</h2>
+				<h3 ng-repeat="author in comic.authors">{{author.name}}</h3>
+				<p>{{comic.description}}</p>
+			</ion-item>
+		</ion-list>
+	</ion-content>
+</ion-view>

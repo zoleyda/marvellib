@@ -1,0 +1,25 @@
+  <!--Header-->
+<ion-view view-title="Lista de Comics">
+
+  <!--Sub-header-->
+  <div class="bar bar-subheader item-input-inset bar-light">
+    <label class="item-input-wrapper">
+      <i class="icon ion-search placeholder-icon"></i>
+      <input type="search" ng-model="busqueda" placeholder="Buscar">
+    </label>
+  </div>
+
+  <!--Listado-->
+  <ion-content class="has-subheader" ng-controller="ControllerList">
+    <ion-list>
+      <ion-item class="item-thumbnail-left item-text-wrap" 
+                ng-repeat="comic in comics | filter:busqueda"
+                href="#/tab/list/{{comic.id}}">
+         <img src="{{comic.image}}" alt="comic">
+        <h2>{{comic.title}}</h2>
+        <p>{{comic.description | limitTo: 100}}{{ comic.description.length ? 100 > '&hellip;' : ''}}</p>
+      </ion-item>
+
+    </ion-list>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,16 @@
+/* Empty. Add your own CSS if you like */
+.bar.bar-assertive .title {
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.details-img {
+	margin: 0px 20% 10%;
+	width: 50%;
+}
+
+.title-details {
+	font-weight: bold !important;
+	text-transform: uppercase;
+	padding-bottom: 10px;
+}

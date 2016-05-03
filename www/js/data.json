@@ -1,0 +1,62 @@
+[
+  {
+    "name":"Gladiator",
+    "shortname":"gladiator",
+    "director":"Ridley Scott",
+    "synopsis":"En el año 180, el Imperio Romano domina todo el mundo conocido. Tras una gran victoria sobre los bárbaros del norte, el anciano emperador Marco Aurelio decide transferir el poder a Máximo, bravo general de sus ejércitos y hombre de inquebrantable lealtad al imperio. Pero su hijo Cómodo, que aspiraba al trono, no lo acepta y trata de asesinar a Máximo."
+  },
+  {
+    "name":"El Señor de los Anillos",
+    "shortname":"el_senor_de_los_anillos",
+    "director":"Peter Jackson",
+    "synopsis":"En la Tierra Media, el Señor Oscuro Saurón ordenó a los Elfos que forjaran 19 Grandes Anillos de Poder. Pero Saurón también forjó en secreto, el Anillo Único, que tiene el poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el malvado Sauron ordena la persecución del grupo, compuesto por Frodo y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misión casi suicida pero necesaria, pues si Sauron con su ejército de orcos lograra recuperar el Anillo, sería el final de la Tierra Media."
+  },
+  {
+    "name":"Piratas del Caribe",
+    "shortname":"piratas_del_caribe",
+    "director":"Gore Verbinski",
+    "synopsis":"Mar Caribe, siglo XVIII. El capitán Jack Sparrow piratea en aguas caribeñas, pero su andanzas terminan cuando su enemigo, el Capitán Barbossa, después de robarle su barco, el Perla Negra, ataca la ciudad de Port Royal y secuestra a Elizabeth Swann. Will Turner, amigo de Elizabeth, se une a Jack para rescatarla y recuperar el Perla Negra. Pero Barbossa y su tripulación son víctimas de un maleficio que los condena a vivir eternamente y a transformarse cada noche en esqueletos vivientes. El conjuro sólo puede romperse si devuelven una pieza de oro azteca y saldan una deuda de sangre. El rescate de Elizabeth será una tarea difícil, ya que será difícil enfrentarse a quienes no pueden morir."
+  },
+  {
+    "name":"Indiana Jones",
+    "shortname":"indiana_jones",
+    "director":"Steven Spielberg",
+    "synopsis":"1936. Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis."
+  },
+  {
+    "name":"Jurassic Park",
+    "shortname":"jurassic_park",
+    "director":"Steven Spielberg",
+    "synopsis":"El multimillonario John Hammond consigue hacer realidad su sueño de clonar dinosaurios del Jurásico y crear con ellos un parque temático en una isla remota. Antes de abrirlo al público, invita a una pareja de eminentes científicos y a un matemático para que comprueben la viabilidad del proyecto. Pero las medidas de seguridad del parque no prevén el instinto de supervivencia de la madre naturaleza ni la codicia humana."
+  },
+  {
+    "name":"El Padrino",
+    "shortname":"el_padrino",
+    "director":"Francis Ford Coppola",
+    "synopsis":"América, años 40. Don Vito Corleone es el temido y respetado jefe de una de las cinco familias de la mafias de New York. Sus cuatro hijos: Connie, el efusivo Sonny, el apocado Fredo y Michael, que prefiere no saber nada de los negocios de su padre. Cuando Corleone, en contra de los consejos de 'Il consigliere' Tom Hagen, se niega a participar en el negocio de las drogas, el jefe de otra banda ordena su asesinato. Empieza entonces una violenta y sangrienta guerra entre las familias mafiosas."
+  },
+  {
+    "name":"Regreso al Futuro",
+    "shortname":"regreso_al_futuro",
+    "director":"Robert Zemeckis",
+    "synopsis":"El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su propia existencia no será posible."
+  },
+  {
+    "name":"Harry Potter",
+    "shortname":"harry_potter",
+    "director":"Chris Columbus",
+    "synopsis":"El día en que cumple once años, Harry Potter se entera de que es hijo de dos destacados hechiceros, de los que ha heredado poderes mágicos. En la escuela Hogwarts de Magia y Hechicería, donde se educa con otros niños que también tienen poderes especiales, aprenderá todo lo necesario para ser mago."
+  },
+  {
+    "name":"Memorias de una Geisha",
+    "shortname":"memorias_de_una_geisha",
+    "director":"Rob Marshall",
+    "synopsis":"Japón, 1929. Chiyo, una niña de nueve años, es vendida por sus padres para trabajar en la casa de Geishas de Nitta Okiya. Su hermana mayor Satsu no es aceptada y es enviada a un prostíbulo. En la casa Chiyo conoce a Pumpkin, otra niña que va a ser instruida para ser geisha, así como a las famosas geishas Hatsumomo y su rival Mameha. Los comienzos de Chiyo son duros, pero un encuentro con el que será el amor de su vida, el Presidente, hará que desde ese momento sólo desee convertirse en una exitosa geisha para estar más cerca de él."
+  },
+  {
+    "name":"Superman",
+    "shortname":"superman",
+    "director":"Richard Donner",
+    "synopsis":"Desde una galaxia remota, un recién nacido es enviado por sus padres al espacio debido a la inminente destrucción del planeta donde viven. La nave aterriza en la Tierra, y el niño es adoptado por unos granjeros que le inculcan los mejores valores humanos. Con los años el joven se irá a Metrópolis y allí usará sus poderes sobrenaturales para luchar contra el mal."
+  }
+]
